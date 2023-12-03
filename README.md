@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3942ad82-ee34-40dd-8abc-4e586e4e6039/deploy-status)](https://app.netlify.com/sites/simplecountrypedia/deploys)
 
-This web application shows you the list of many countries. You can not only see the list of countries, but also search for countries, get information such as the flag, coat of arms, population, region of the country you selected. [Click here](https://countrypedia.app) for visit website.
+This web application shows you the list of many countries. You can not only see the list of countries, but also search for countries, get information such as the flag, coat of arms, population, region of the country you selected. [Click here](https://countrypedia-six.vercel.app/) for visit website.
 
 ## Development
 
@@ -44,7 +44,7 @@ From this point on I will not add any new features to v2, only bug fixes and pac
 
 **I will develop v3 on the development branch before fully releasing it. You can view it by** [clicking here](https://github.com/arupmandal/countrypedia/tree/dev).
 
-**You can also review the new README.md. When it reaches a certain stage, the preview link will be shared. Also the to-do list for v3 is shown in this file. [Click here](https://github.com/ubeydeozdmr/countrypedia/blob/dev/README.md) to review.**
+**You can also review the new README.md. When it reaches a certain stage, the preview link will be shared. Also the to-do list for v3 is shown in this file. [Click here](https://github.com/arupmandal/countrypedia/blob/dev/README.md) to review.**
 
 ## Features
 
