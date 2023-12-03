@@ -1,0 +1,32 @@
+{
+  "name": "countrypedia",
+  "version": "2.2.0",
+  "description": "An application where you can see all countries",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html --cache-dir ./.cache/parcel",
+    "build": "parcel build index.html --cache-dir ./.cache/parcel --dist-dir ./dist",
+    "all": "npm run build && npm start"
+  },
+  "source": "index.html",
+  "browserslist": "> 1%",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubeydeozdmr/countrypedia.git"
+  },
+  "keywords": [
+    "country",
+    "countries",
+    "countrypedia"
+  ],
+  "author": "Ubeyde Emir Özdemir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ubeydeozdmr/countrypedia/issues"
+  },
+  "homepage": "https://github.com/ubeydeozdmr/countrypedia#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3",
+    "parcel": "^2.9.3"
+  }
+}
